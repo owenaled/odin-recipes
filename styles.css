@@ -1,7 +1,7 @@
 html{
     display: flex;
     background-image: url("recipes/images/background.jpg");
-    background-repeat: repeat-y;
+    background-repeat: repeat-x;
     background-size: cover;
     background-color: #4dc7a4;
     justify-content: center;
